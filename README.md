@@ -78,19 +78,23 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+<img width="823" height="507" alt="image" src="https://github.com/user-attachments/assets/e6d0bf10-d337-40a3-b47e-c294493cd036" />
+
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="857" height="589" alt="image" src="https://github.com/user-attachments/assets/b8e60618-6182-4a40-96df-20462c20990a" />
+
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="813" height="664" alt="image" src="https://github.com/user-attachments/assets/ce27ccc9-e872-471b-a361-66cbaba3fc2f" />
+
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="908" height="760" alt="image" src="https://github.com/user-attachments/assets/37daaa0d-25f2-4c52-ab18-a667ef7abde7" />
+
 
 ### Como foi para você
 
